@@ -9,13 +9,13 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/gcs"
-	"github.com/btcsuite/btcutil/gcs/builder"
+	"github.com/tjaxer/btcd/chaincfg"
+	"github.com/tjaxer/btcd/chaincfg/chainhash"
+	"github.com/tjaxer/btcd/txscript"
+	"github.com/tjaxer/btcd/wire"
+	"github.com/tjaxer/btcutil"
+	"github.com/tjaxer/btcutil/gcs"
+	"github.com/tjaxer/btcutil/gcs/builder"
 )
 
 var (

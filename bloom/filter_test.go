@@ -9,10 +9,10 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/bloom"
+	"github.com/tjaxer/btcd/chaincfg/chainhash"
+	"github.com/tjaxer/btcd/wire"
+	"github.com/tjaxer/btcutil"
+	"github.com/tjaxer/btcutil/bloom"
 )
 
 // TestFilterLarge ensures a maximum sized filter can be created.
